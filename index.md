@@ -1,5 +1,5 @@
 # Twitter
- @iCyP
+ [@iCyP](https://twitter.com/iCyP)
 # Blender Addons
 ### VRM importer
 [For 2.79](https://github.com/iCyP/VRM_IMPORTER_for_Blender2_8)
