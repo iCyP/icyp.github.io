@@ -18,8 +18,9 @@
 [For 2.80](https://github.com/iCyP/curve_array_for_blender2_8)
 ### Add mesh following japanese units
 [For 2.80](https://github.com/iCyP/japanese-units-mesh_addon)
+### View info
+[For 2.80](https://github.com/iCyP/View_info_for_blender2_8)
 ### WIP
-[WIP](https://github.com/iCyP/View_info_for_blender2_8)
 [WIP](https://github.com/iCyP/color_helper_for_blender2_8)
 
 
