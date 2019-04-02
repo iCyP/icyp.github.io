@@ -17,7 +17,7 @@
 ### Set Array taper, and bevel to curve 
 [For 2.80](https://github.com/iCyP/curve_array_for_blender2_8)
 ### Add mesh following japanese units
-[For 2.80](https://github.com/iCyP/japanese-units-mesh_addon)
+[For 2.80](https://github.com/iCyP/japanese-units-mesh_addon)<br>
 <img src="../Res/jp_mesh.png" width="50%">
 ### View info
 [For 2.80](https://github.com/iCyP/View_info_for_blender2_8)
