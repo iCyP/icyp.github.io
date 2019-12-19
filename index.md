@@ -15,6 +15,10 @@
 </code>
 </pre>
 </details>
+
+#### Add Modifier Applied Object forBlender2.8
+[For 2.80](https://github.com/iCyP/Add_Modifier_Applied_Object_forBlender2_8)
+
 ### Set Array taper, and bevel to curve 
 [For 2.80](https://github.com/iCyP/curve_array_for_blender2_8)
 ### Add mesh following japanese units
@@ -23,10 +27,13 @@
 ### View info
 [For 2.80](https://github.com/iCyP/View_info_for_blender2_8)
 
+### qwerty to aiueo
+
+https://gist.github.com/iCyP/f7953e12d6ae7597e66165c3c529a5f4
+
 ### WIP
 [WIP](https://github.com/iCyP/color_helper_for_blender2_8)
-#### Add Modifier Applied Object forBlender2.8
-[For 2.80](https://github.com/iCyP/Add_Modifier_Applied_Object_forBlender2_8)
+
 
 
 
