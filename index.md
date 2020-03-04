@@ -1,6 +1,5 @@
 # I'm in...
  - [Twitter: iCyP](https://twitter.com/iCyP)
- - DISCORD: icyp#1832
  
 # Blender Addons
 ### VRM importer
