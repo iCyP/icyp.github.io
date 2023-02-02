@@ -1,6 +1,6 @@
 # I'm in...
  - [Twitter: iCyP](https://twitter.com/iCyP)
- 
+ - <a rel="me" href="https://mstdn.jp/@icyq">Mastodon:icyq (not P but Q)</a>
 # Blender Addons
 ### VRM importer
 [For 2.8?](https://github.com/iCyP/VRM_IMPORTER_for_Blender2_8)
