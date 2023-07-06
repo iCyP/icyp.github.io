@@ -2,6 +2,7 @@
  - [Twitter: iCyP](https://twitter.com/iCyP)
  - <a rel="me" href="https://mstdn.jp/@icyq">Mastodon:icyq in mstdn.jp(not P but Q)</a>
  - [@iCyP@misskey.io](https://misskey.io/@iCyP)
+ - instagram/threads@meta :iCyPやその近しい名前では存在しません。転生垢はあります。
 # Blender Addons
 ### VRM importer
 [For 2.8?](https://github.com/iCyP/VRM_IMPORTER_for_Blender2_8)
