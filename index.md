@@ -9,12 +9,12 @@
 ### Convert selected Edge to Bone
 [For 2.80](https://github.com/iCyP/edge_to_bone_for_blender_2_8)
 <details>
-<summary>demo</summary>
-<pre>
-<code>
+<summary>demo niconico is unavailable　at 20240625</summary>
+<!-– <pre>
+ <code>
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm34800449/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm34800449">edge_to_bone_for_blender_2_8 デモ</a></noscript>
 </code>
-</pre>
+</pre> -->
 </details>
 
 #### Add Modifier Applied Object forBlender2.8
