@@ -5,7 +5,7 @@
  - instagram/threads@meta :iCyPやその近しい名前では存在しません。転生垢はあります。
 # Blender Addons
 ### VRM importer
-[For 2.8?](https://github.com/iCyP/VRM_IMPORTER_for_Blender2_8)
+[Transfer to saturday06/VRM-Addon-for-Blender](https://github.com/saturday06/VRM-Addon-for-Blender)
 ### Convert selected Edge to Bone
 [For 2.80](https://github.com/iCyP/edge_to_bone_for_blender_2_8)
 <details>
